@@ -3,7 +3,7 @@
 
 I'm Charles, an IT student at EPITA.👨‍💻
 
-Motor sports and karting enthusiast.
+Motor sports and karting enthusiast. 🏎
 
 
 ## Currently Working on  
