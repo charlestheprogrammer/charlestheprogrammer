@@ -91,6 +91,31 @@ Motor sports and karting enthusiast. 🏎
   </table>
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></td>
+      <td><b>Linux</b></td>
+    </tr>
+    <tr>
+      <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></td>
+      <td><b>Git</b></td>
+    </tr>
+    <tr>
+      <td><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png" alt="Xcode" height="50" /></td>
+      <td><b>Xcode</b></td>
+    </tr>
+    <tr>
+      <td><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" alt="macOS" height="50" /></td>
+      <td><b>macOS</b></td>
+    </tr>
+    <tr>
+      <td><img style="margin: 10px" src="https://madrau.fr/Github-Icons/ios.png" alt="iOS" height="50" /></td>
+      <td><b>iOS</b></td>
+    </tr>
+  </table>
+</div>
+
 </td></tr></table>  
 </div>
 
