@@ -20,7 +20,7 @@ Motor sports and karting enthusiast. 🏎
 
 ## Skills 
 <div align="center"> 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="33%">
 
 ### Languages  
 <div align="center">
@@ -61,11 +61,11 @@ Motor sports and karting enthusiast. 🏎
     
       
 </div>
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
 
 
-### Softwares  
+### Languages  
 <div align="center">
   <table>
     <tr>
@@ -91,8 +91,10 @@ Motor sports and karting enthusiast. 🏎
   </table>
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
+
+### Softwares
 <div align="center">
   <table>
     <tr>
