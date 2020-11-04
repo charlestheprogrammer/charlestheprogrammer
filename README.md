@@ -91,6 +91,8 @@ Motor sports and karting enthusiast. 🏎
   </table>
 </div>
 
+</td><td valign="top" width="50%">
+
 <div align="center">
   <table>
     <tr>
