@@ -64,7 +64,7 @@ Motor sports and karting enthusiast. 🏎
 
 
 ### Softwares  
-<div align="center" style="display: flex; flex-direction: row;">
+<div align="center" style="display: flex">
   <table>
     <tr>
       <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></td>
