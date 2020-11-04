@@ -24,8 +24,6 @@ Motor sports and karting enthusiast. 🏎
 
 ### Languages  
 <div align="center">
-  <table>
-    <tr>
       <table>
         <tr>
           <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></td>
@@ -60,43 +58,6 @@ Motor sports and karting enthusiast. 🏎
           <td><b>MySQL</b></td>
         </tr>
       </table>
-      </tr>
-    <tr>
-      <table>
-        <tr>
-          <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></td>
-          <td><b>Python</b></td>
-        </tr>
-        <tr>
-          <td><img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" alt="Swift" height="50" /></td>
-          <td><b>Swift</b></td>
-        </tr>
-        <tr>
-          <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></td>
-          <td><b>HTML</b></td>
-        </tr>
-        <tr>
-          <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></td>
-          <td><b>CSS3</b></td>
-        </tr>
-        <tr>
-          <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></td>
-          <td><b>JavaScript</b></td>
-        </tr>
-        <tr>
-          <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></td>
-          <td><b>C</b></td>
-        </tr>
-        <tr>
-          <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></td>
-          <td><b>C#</b></td>
-        </tr>
-        <tr>
-          <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></td>
-          <td><b>MySQL</b></td>
-        </tr>
-      </table>
-    </tr>
     
       
 </div>
