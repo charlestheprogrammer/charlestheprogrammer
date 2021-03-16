@@ -1,10 +1,10 @@
 ### <div align="center">I'm Charles, an IT student at EPITA. I like Apple's mindset. 👨‍ | 💻</div>  
   
 
-- 👽 I’m currently working for [Alien6 Startup](https://alien6.com) and on an [OCR project](https://github.com/Bitarrays/Lambda.git/)  
+- 👽 I’m currently working for [Alien6 Startup](https://alien6.com) and on a [Startup](https://bitarrays.fr)  
   
 
-- 📚 I’m currently learning TypeScript  
+- 📚 I’m currently learning React Native  
   
 
 - 🏎 I'm motorsports and karting enthusiast  
