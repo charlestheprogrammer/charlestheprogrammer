@@ -91,7 +91,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=Drazeee" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drazeee&hide_border=true&layout=compact&hide=php" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
